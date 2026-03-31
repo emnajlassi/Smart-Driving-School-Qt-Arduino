@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image.png</file>
+        <file>image1.jpg</file>
+        <file>image22.png</file>
+        <file>logoc++++.png</file>
+        <file>statistic-icon-design-free-vector.png</file>
+        <file>045f2377fb24c931d911ff99118d43ba.png</file>
+        <file>46db9ee3d4b3323457222bb8db7f3b42.png</file>
+        <file>58dc928fc87b2fe54b9d41eaa2f2d6fd.png</file>
+        <file>0527f41904e77feddb97e532fe74d08f.png</file>
+        <file>7001e00fd5b7f2745c5e91ff547f4763.png</file>
+        <file>c304db1f3a4864029c18555f967813fb.png</file>
+        <file>c53651e2209ddb3281ed3a114fae2cfb.png</file>
+        <file>cbad98069fae8d5554390bd40b0b561c.png</file>
+        <file>d1fac1931c956c908f6b183e39097a88.png</file>
+        <file>f6ed1e3481ef1983a49a80fe83a50fb3.png</file>
+        <file>6e37486260355404fdb81003a7d71b05.png</file>
+        <file>moto.png</file>
+        <file>karhba.png</file>
+        <file>car.png</file>
+        <file>date1.png</file>
+        <file>date2.png</file>
+        <file>ChatGPT Image 19 nov. 2025, 18_40_51.png</file>
+        <file>ChatGPT Image 19 nov. 2025, 19_04_00.png</file>
+        <file>ChatGPT Image 19 nov. 2025, 19_09_46.png</file>
+    </qresource>
+</RCC>

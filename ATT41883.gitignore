@@ -1,0 +1,28 @@
+--- Fichiers spécifiques à Qt Creator ---
+*.pro.user
+*.user
+*.autosave
+*.qbs.user
+*.creator.user
+
+--- Dossiers de compilation ---
+build/
+debug/
+release/
+bin/
+obj/
+
+--- Sauvegardes et fichiers temporaires ---
+*.log
+*.tmp
+*.bak
+.swp
+.DS_Store
+
+--- Fichiers générés automatiquement ---
+Makefile
+*.o
+*.a
+*.so
+*.dll
+*.exe
